@@ -1,2 +1,2 @@
 # restaurant-page
-A Simple Restaurant Homepage (for purposes of learning webpack)
+This is a template.
