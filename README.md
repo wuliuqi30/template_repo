@@ -1,2 +1,1 @@
-# restaurant-page
-This is a template.
+This is a template. Put your readme info here. 
