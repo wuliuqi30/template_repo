@@ -12,3 +12,9 @@ npm install --save-dev webpack-dev-server
 npm install --save-dev --save-exact prettier
 node --eval "fs.writeFileSync('.prettierrc','{}\n')"
 node --eval "fs.writeFileSync('.prettierignore','# Ignore artifacts:\nbuild\ncoverage\n')"
+
+# Linter: ESLint
+npm init @eslint/config@latest
+
+# babel (for making your code work on older browsers)
+npm install -D babel-loader @babel/core @babel/preset-env webpack
